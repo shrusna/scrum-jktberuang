@@ -7,7 +7,7 @@
                 </p>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <ul id="portfolio-flters">
                         <li data-filter="*" class="filter-active">All</li>
@@ -16,8 +16,21 @@
                         <li data-filter=".filter-web">Panda</li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
 
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+                <div class="portfolio-item owl-carousel owl-1">
+                    <div><img src="assets/img/portfolio/portfolio-1.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-2.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-3.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-4.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-5.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-6.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-8.jpg" alt="Image" class="img-fluid"></div>
+                    <div><img src="assets/img/portfolio/portfolio-9.jpg" alt="Image" class="img-fluid"></div>
+                </div>
+            </div>
+            <!-- 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
@@ -153,6 +166,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>

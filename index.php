@@ -33,6 +33,23 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet" />
 
+  <!-- Carousel -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+  <!-- Style -->
+  <link rel="stylesheet" href="assets/css/style-car.css">
+
   <!-- =======================================================
   * Template Name: Scaffold - v4.7.0
   * Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
@@ -67,10 +84,6 @@
     <?php include 'portfolio.php'; ?>
     <!-- End Portfolio Section -->
 
-    <!-- ======= Cta Section ======= -->
-    <?php include 'cta.php'; ?>
-    <!-- End Cta Section -->
-
     <!-- ======= Testimonials Section ======= -->
     <?php include 'testimonials.php'; ?>
     <!-- End Testimonials Section -->
@@ -78,14 +91,6 @@
     <!-- ======= Team Section ======= -->
     <?php include 'team.php'; ?>
     <!-- End Team Section -->
-
-    <!-- ======= Clients Section ======= -->
-    <?php include 'clients.php'; ?>
-    <!-- End Clients Section -->
-
-    <!-- ======= Pricing Section ======= -->
-    <?php include 'pricing.php'; ?>
-    <!-- End Pricing Section -->
 
     <!-- ======= F.A.Q Section ======= -->
     <?php include 'faq.php'; ?>
@@ -113,6 +118,11 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/jquery-3.3.1.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <script src="assets/js/main-car.js"></script>
 </body>
 
 </html>
