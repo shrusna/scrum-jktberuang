@@ -41,11 +41,13 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box icon-box-blue">
+                    <a href="habitat.php">   
                         <div class="">
                             <img src="assets/img/bear/c.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                         </div>
                         <h4 class="title"><a href="">Habitat</a></h4>
                         <p class="description" style="text-align: justify;">Secara umum, Beruang kutub hidup secara individual. Beruang betina biasanya akan hidup di sepanjang pantai Kutub Utara, sementara beruang jantan tinggal di atas bongkahan - bongkahan es dan terapung - apung di laut sekitar 180 mil jauhnya dari pantai.</p>
+                    </a>
                     </div>
                 </div>
 
