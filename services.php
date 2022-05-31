@@ -21,6 +21,7 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box icon-box-blue">
+                    <a href="reproduction.php">
                         <div class="">
                             <img src="assets/img/bear/a.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                         </div>
