@@ -3,7 +3,7 @@
             <div class="section-title" data-aos="fade-up">
                 <h2>Testimonials</h2>
                 <p>
-                We also have several testimonials that you have received from friends who care about the environment when using our services and website.
+                Wee also have \several testimonials that you have received from friends who care about the environment when using our services and website.
                 </p>
             </div>
 
