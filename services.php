@@ -1,4 +1,4 @@
-    <section id="services" class="services section-bg">
+    <section id="pb" class="services section-bg">
         <div class="container">
 
             <div class="section-title" data-aos="fade-up">
@@ -21,12 +21,12 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box icon-box-blue">
-                    <a href="reproduction.php">
-                        <div class="">
-                            <img src="assets/img/bear/a.jpeg" class="card-img-top card-cover" height="150em" alt="...">
-                        </div>
-                        <h4 class="title"><a href="">Reproduction</a></h4>
-                        <p class="description" style="text-align: justify;">Musim perkawinan untuk Beruang kutub terjadi pada musim panas di Kutub Utara. Kemudian biasanya mereka akan melahirkan 2 - 3 bayi.</p>
+                        <a href="reproduction.php">
+                            <div class="">
+                                <img src="assets/img/bear/a.jpeg" class="card-img-top card-cover" height="150em" alt="...">
+                            </div>
+                            <h4 class="title"><a href="">Reproduction</a></h4>
+                            <p class="description" style="text-align: justify;">Musim perkawinan untuk Beruang kutub terjadi pada musim panas di Kutub Utara. Kemudian biasanya mereka akan melahirkan 2 - 3 bayi.</p>
                     </div>
                 </div>
 
