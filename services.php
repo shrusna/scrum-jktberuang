@@ -31,11 +31,13 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box icon-box-blue">
+                    <a href="behaviour.php">   
                         <div class="">
                             <img src="assets/img/bear/b.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                         </div>
                         <h4 class="title"><a href="">Behaviour</a></h4>
                         <p class="description" style="text-align: justify;">Kebanyakan beruang coklat dewasa bersifat krepuskular, dengan aktivitas puncak pada pagi dan sore hari. Beruang muda mungkin aktif di siang hari, sementara beruang yang hidup di dekat manusia cenderung aktif di malam hari. </p>
+                    </a>
                     </div>
                 </div>
 
