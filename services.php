@@ -9,11 +9,13 @@
             <div class="row">
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
                     <div class="icon-box icon-box-blue">
+                    <a href="classification.php">   
                         <div class="">
                             <img src="https://images.unsplash.com/photo-1590787996529-a542c86ca267?b=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" class="card-img-top card-cover" height="150em" alt="...">
                         </div>
-                        <h4 class="title"><a href="">Classification</a></h4>
+                        <h4 class="title">Classification</h4>
                         <p class="description" style="text-align: justify;">Beruang Kutub (Ursus maritimus) adalah spesies beruang besar hidup di kutub utara. Beruang ini mampu berenang sejauh 60 mil tanpa henti'</p>
+                        </a>
                     </div>
                 </div>
 
