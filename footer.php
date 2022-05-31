@@ -31,7 +31,8 @@
                               <i class="bx bx-chevron-right"></i> <a href="#">About us</a>
                           </li>
                           <li>
-                              <i class="bx bx-chevron-right"></i> <a href="#">Services</a>
+                              <i class="bx bx-chevron-right"></i> <a href="#">Polar bear facts
+                              </a>
                           </li>
                           <li>
                               <i class="bx bx-chevron-right"></i>

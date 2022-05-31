@@ -84,10 +84,6 @@
     <?php include 'portfolio.php'; ?>
     <!-- End Portfolio Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <?php include 'testimonials.php'; ?>
-    <!-- End Testimonials Section -->
-
     <!-- ======= Team Section ======= -->
     <?php include 'team.php'; ?>
     <!-- End Team Section -->

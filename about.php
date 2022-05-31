@@ -8,28 +8,21 @@
                  <div class="content pt-4 pt-lg-0">
                      <h3>Learn more about us</h3>
                      <p class="fst-italic">
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                         do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                         Our mission is to conserve polar bears and the sea ice they depend on. We work to address both short and long-term threats to polar bears to ensure they roam the sea ice for generations to come.
                      </p>
                      <ul>
                          <li>
-                             <i class="bi bi-check-circle"></i> Ullamco laboris nisi ut
-                             aliquip ex ea commodo consequat.
+                             <i class="bi bi-check-circle"></i> Proactively and effectively communicate science-based information on polar bears and their conservation.
                          </li>
                          <li>
-                             <i class="bi bi-check-circle"></i> Duis aute irure dolor in
-                             reprehenderit in voluptate velit.
+                             <i class="bi bi-check-circle"></i> Conduct, support, and share scientific research that informs polar bear conservation.
                          </li>
                          <li>
-                             <i class="bi bi-check-circle"></i> Ullamco laboris nisi ut
-                             aliquip ex ea commodo consequat. Duis aute irure dolor in
-                             reprehenderit in voluptate trideta storacalaperd
+                             <i class="bi bi-check-circle"></i> Proactively and effectively communicate science-based information on polar bears and their conservation.
                          </li>
                      </ul>
                      <p>
-                         Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                         aute irure dolor in reprehenderit in voluptate tera noden
-                         carma palorp mades tera.
+                         Big, brilliant, and built for cold, polar bears are the very symbol of a wild Arctic. Yet, despite their size and strength, they need our help to survive the coming decades.
                      </p>
                  </div>
              </div>

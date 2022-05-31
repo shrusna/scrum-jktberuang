@@ -1,9 +1,9 @@
     <section id="portfolio" class="portfolio">
         <div class="container">
             <div class="section-title" data-aos="fade-up">
-                <h2>Portfolio</h2>
+                <h2>Gallery</h2>
                 <p>
-                    Few bear images categorized by species—polar bear, chocolate bear, and panda.
+                    Few images species—polar bear
                 </p>
             </div>
 
