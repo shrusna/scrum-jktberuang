@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
                 <div>
-                    <h1>Clasification</h1>
+                    <h1>Behaviour</h1>
                     <h2>
                         Let's learn about the behaviour of our precious polar bear
                     </h2>

@@ -25,8 +25,9 @@
                             <div class="">
                                 <img src="assets/img/bear/a.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                             </div>
-                            <h4 class="title"><a href="">Reproduction</a></h4>
+                            <h4 class="title">Reproduction</h4>
                             <p class="description" style="text-align: justify;">Musim perkawinan untuk Beruang kutub terjadi pada musim panas di Kutub Utara. Kemudian biasanya mereka akan melahirkan 2 - 3 bayi.</p>
+                        </a>
                     </div>
                 </div>
 
@@ -36,7 +37,7 @@
                             <div class="">
                                 <img src="assets/img/bear/b.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                             </div>
-                            <h4 class="title"><a href="">Behaviour</a></h4>
+                            <h4 class="title">Behaviour</h4>
                             <p class="description" style="text-align: justify;">Kebanyakan beruang coklat dewasa bersifat krepuskular, dengan aktivitas puncak pada pagi dan sore hari. Beruang muda mungkin aktif di siang hari, sementara beruang yang hidup di dekat manusia cenderung aktif di malam hari. </p>
                         </a>
                     </div>
@@ -48,7 +49,7 @@
                             <div class="">
                                 <img src="assets/img/bear/c.jpeg" class="card-img-top card-cover" height="150em" alt="...">
                             </div>
-                            <h4 class="title"><a href="">Habitat</a></h4>
+                            <h4 class="title">Habitat</h4>
                             <p class="description" style="text-align: justify;">Secara umum, Beruang kutub hidup secara individual. Beruang betina biasanya akan hidup di sepanjang pantai Kutub Utara, sementara beruang jantan tinggal di atas bongkahan - bongkahan es dan terapung - apung di laut sekitar 180 mil jauhnya dari pantai.</p>
                         </a>
                     </div>
